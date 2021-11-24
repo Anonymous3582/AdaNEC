@@ -15,7 +15,7 @@ This repo has been tested in the following environment
 ## Quick Start
 
 ### Downloading this repository
-We provide the pre-trained model via git-lfs (large file support), please clone this repository via one of the following methods.
+We provide the pre-trained model via git-lfs (large file storage), please clone this repository via one of the following methods.
 1) `git lfs clone https://github.com/Anonymous3582/AdaNEC` or
 2) `git clone https://github.com/Anonymous3582/AdaNEC`, then download the pre-trained model from [this page](./checkpoints/ERRNet_AdaNEC_OF/final_release.pt), and place it in the `checkpoints/ERRNet_AdaNEC_OF` folder.
 
