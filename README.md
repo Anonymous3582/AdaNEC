@@ -1,3 +1,7 @@
+# Update
+
+The repository will be maintained at https://github.com/csmliu/AdaNEC.
+
 # AdaNEC
 
 The implementation of Anonymous Submission 3582 "[Adaptive Network Combination for Single-Image Reflection Removal: A Domain Generalization Perspective](https://github.com/Anonymous3582/AdaNEC)"
